@@ -1,7 +1,7 @@
 Package: dictools
 Type: Package
 Title: Dissolved Inorganic Carbon Tools
-Version: 0.1.20210130
+Version: 0.1
 Date: 2021-01-30
 Author: Robert Payn
 Maintainer: Robert Payn <rpayn@montana.edu>
