@@ -1,0 +1,14 @@
+Package: dictools
+Type: Package
+Title: Dissolved Inorganic Carbon Tools
+Version: 0.1.20210130
+Date: 2021-01-30
+Author: Robert Payn
+Maintainer: Robert Payn <rpayn@montana.edu>
+Description: A collection of R6 classes for performing calculations for
+ inorganic carbon speciation in aqueous systems
+License: GNU General Public License v3.0
+URL: https://github.com/robpayn/dictools
+Imports: R6
+RoxygenNote: 7.1.0
+Encoding: UTF-8
